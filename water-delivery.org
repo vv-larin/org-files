@@ -1,0 +1,338 @@
+#+TITLE: Water Delivery Challenge
+#+AUTHOR: Mosaic Foundation
+#+OPTIONS: toc:nil num:1
+#+latex_header: \usepackage[a4paper,margin=1in]{geometry}
+#+latex_header: \setlength{\parindent}{0pt}
+
+* The story
+The villages of Hilltop, Riverside, and Crossroads all depend on a single water truck that travels from the town of Emthonjeni. Every day, families in these villages rely on this truck to bring enough clean water for drinking, cooking, and washing. But recently, the municipal engineers noticed a problem: the storage tanks in the villages are running low, and the truck can only carry a limited amount of water each day.\\
+\\
+To make matters more urgent, the truck must complete all its deliveries before sunset, and the roads between the villages are long and winding. If the water is not delivered wisely, one or more villages could run out, putting people at risk.\\
+\\
+You have been asked to help plan the deliveries. Using the information provided, your task is to work out how much water each village needs, how far the truck must travel, and how to design a safe 3-day rescue plan so that all three villages have enough water stored.\\
+\\
+Read the facts carefully, think step by step, and use your reasoning skills. The people of the three villages are counting on you.
+
+* Instructions for Learners
+
+This challenge is a multi-step problem. You will first be given some facts and rules, and then a series of questions. \\
+\\
+Use only the facts given here, even if you know something different from real life. Then answer the questions that follow.
+
+** Important
+- Everything you need to know to solve this challenge is in this paper (apart from some very basic arithmetic).
+- The questions are structured in a way that will lead you to the final answer, so do them in order and make sure you *understand each one* before moving to the next one.
+- Do not copy each other's answers, but feel free to help each other *understand*.
+- We are also here to help. Feel free to ask us any questions, especially if you get stuck.
+
+* Background Information
+
+** Water needs
+
+- Each person needs 25 litres (L) of water *per day* for drinking, cooking and washing.
+- A water tank in a village is considered *safe* if it has at least *2 days* of water stored.
+- Even if a village starts the day with no water or not enough water (for the day), but enough water is delivered during the day, people will not suffer.
+- 1 kilolitre (kL) = 1 000 L.
+
+** The villages
+
+A water truck drives from the town of *Emthonjeni* to three nearby villages. Each village has one storage tank:
+
+#+CAPTION: Populations, tank capacities and current amounts in tanks
+#+ATTR_LATEX: :align |l|c|c|c|
+|------------+---------------------+--------------------+-----------------------------|
+| Village    | Population (people) | Tank capacity (kL) | Current amount in tank (kL) |
+|------------+---------------------+--------------------+-----------------------------|
+| Hilltop    |                 120 |                  8 |                           5 |
+| Riverside  |                  80 |                  8 |                           2 |
+| Crossroads |                  60 |                  4 |                           2 |
+|------------+---------------------+--------------------+-----------------------------|
+
+Remember:
+- To convert kL to litres, multiply by 1 000.
+
+** The roads and distances
+
+The diagram below is described in words. All distances are in kilometres.
+
+- Emthonjeni \to Hilltop: 80 km
+- Hilltop \to Riverside: 50 km
+- Riverside \to Crossroads: 100 km
+- Emthonjeni \to Crossroads: 60 km
+- Hilltop \to Crossroads: 80 km 
+
+Assume:
+
+- There is *no direct road* from Emthonjeni to Riverside. You must go via Hilltop or via Crossroads.
+- All roads are two-way (distance is the same going there and back).
+
+** The water truck
+
+For this problem:
+
+- The truck can carry 8 000 L of water when it is full.
+- The truck always starts the day in Emthonjeni with a full tank.
+- It must return to Emthonjeni before the sun sets, which is in 8 hours.
+- The truck travels at a constant speed of 40 km/h on all roads.
+
+Assume that emptying water into a village tank (any amount) takes 1 hour per stop.
+
+Helpful formulas:
+
+- Daily water needed in a village:
+  \[ \text{Daily need (L)} = \text{Population}\times25 \]
+- Time to travel:
+  \[ \text{Time (hours)} = \frac{\text{Distance (km)}}{\text{Speed (km/h)}} \]
+
+* Questions
+
+** Part A – Understanding the water needs
+
+1. Daily needs per village
+
+   Use the formula to calculate the *daily water need (in litres)* for each village.
+   Show your work.
+
+   a) Hilltop:
+
+   b) Riverside:
+
+   c) Crossroads:
+
+2. Total daily need
+
+   Calculate the *total amount of water* needed by all three villages *together* in one day.
+   Show your work.
+
+   Total amount of water needed per day:
+
+3. Current safety
+
+   How many *days of water* does each village currently have in its tank, if no new water is delivered?
+
+   Use:
+   - The “current amount in tank” from the table.
+   - Your answers from Question 1.
+
+   For each village, also state whether its tank is *safe* (at least 2 days of water) or *unsafe*. Explain briefly.
+
+   a) Hilltop:
+
+   b) Riverside:
+
+   c) Crossroads:
+
+** Part B – Can one load save everyone?
+
+The driver can deliver only *one* full truckload (8 000 L) today.
+
+4. [@4] a) Is 8 000 L enough to give *every* village at least *2 days of water* by the end of today?
+
+      Show clear calculations and explain your answer.
+      #+latex: \vspace{1in}
+
+   b) If it is *not* enough, which villages would you choose to prioritise *today* so that the overall situation is *as safe as possible*?
+
+      Justify your choice in words and with numbers.
+      #+latex: \vspace{1in}
+
+** Part C – Distances, times and routes
+
+(It may help to draw a diagram of the roads.)
+
+5. [@5] Driving times (one-way)
+
+   Calculate the *driving time* (in hours and minutes) for each trip. Show your calculations.
+
+   a) Emthonjeni \to Hilltop (80 km):
+
+   b) Hilltop \to Riverside (50 km):
+
+   c) Riverside \to Crossroads (100 km):
+
+   d) Emthonjeni \to Crossroads (60 km):
+
+   e) Hilltop \to Crossroads (80 km):
+
+6. Example route
+
+   The driver plans this route for one day:
+
+   - Emthonjeni \to Hilltop \to Riverside \to Hilltop \to Emthonjeni
+   - He does *not* visit Crossroads on this day.
+
+   a) Calculate the *total distance* of this route:
+
+   b) Calculate the *total driving time* for this route:
+
+   c) Now add time for emptying the tank at the villages:
+     - 1 hour to empty water at Hilltop
+     - 1 hour to empty water at Riverside
+
+   d) What is the *total time* for the whole work day?
+
+   e) Is this route allowed within the 8-hour limit? Explain:
+
+** Part D – Design a 3-day rescue plan
+
+The municipality gives you this challenge:
+
+#+BEGIN_QUOTE
+/You have 3 days to make all three villages safe./
+
+/At the end of Day 3, every village must have at least 2 days of water in its tank./
+
+/You can use the water truck once per day for at most 8 hours per day./
+#+END_QUOTE
+
+Rules:
+
+- Each morning, the truck starts *full* (8 000 L) at Emthonjeni.
+- You choose which villages to visit and how much water to give each village on each day.
+- You cannot give more water than the truck is carrying.
+- You must respect the *time limit* each day (driving + emptying).
+- You must avoid a situation where a village runs out of water. That means that the amount of water it started the day with plus water delivered that day has to at least equal its daily need.
+- In maths terms:
+  \[ \text{Water (morning)} + \text{Water (delivered)} \ge \text{Daily need} \]
+
+*** 1. Planning questions
+
+  a) For each village, calculate how much water (in litres) it *must have in its tank* by the *end of Day 3* to be “safe” (remember: at least 2 days of water).
+
+  - Hilltop:
+  - Riverside:
+  - Crossroads:
+
+  b) For each village, calculate the minimum amount of water that needs to be delivered each day, so that the village does not run out:
+  \[ \text{Water (morning)} + \text{Water (delivered)} \ge \text{Daily need} \]
+  Note that:
+  \[ \text{Water (evening)} = \text{Water (morning)} + \text{Water (delivered)} - \text{Daily need} \]
+  And that water is not used at night, so the morning amount should equal the previous evening's one:
+  \[ \text{Water (morning)} = \text{Water (previous evening)} \]
+
+  #+caption: Villages' minimum water needs
+  #+ATTR_LATEX: :align |l|c|c|c|
+  |-------------------+-------+-------+-------|
+  | Hilltop           | Day 1 | Day 2 | Day 3 |
+  |-------------------+-------+-------+-------|
+  | Water (morning)   |     5 |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (delivered) |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Daily need        |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (evening)   |       |       |       |
+  |-------------------+-------+-------+-------|
+
+  #+name: riverside-table
+  #+ATTR_LATEX: :align |l|c|c|c|
+  |-------------------+-------+-------+-------|
+  | Riverside         | Day 1 | Day 2 | Day 3 |
+  |-------------------+-------+-------+-------|
+  | Water (morning)   |     2 |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (delivered) |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Daily need        |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (evening)   |       |       |       |
+  |-------------------+-------+-------+-------|
+
+
+  #+ATTR_LATEX: :align |l|c|c|c|
+  |-------------------+-------+-------+-------|
+  | Crossroads        | Day 1 | Day 2 | Day 3 |
+  |-------------------+-------+-------+-------|
+  | Water (morning)   |     2 |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (delivered) |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Daily need        |       |       |       |
+  |-------------------+-------+-------+-------|
+  | Water (evening)   |       |       |       |
+  |-------------------+-------+-------+-------|
+  
+  c) For each village, calculate how much water must be delivered *in total* over the 3 days to make them *safe* (2 days of water in the tank). Remember that the villages use water from their tanks each day.
+
+  - Hilltop:
+  - Riverside:
+  - Crossroads:
+  
+*** 2. Your 3-day plan
+
+  Finally, design a *3-day delivery schedule*.
+
+  For *each day*, clearly show:
+
+  - The *route* of the truck (for example, Emthonjeni \to Hilltop \to Riverside \to Emthonjeni).
+  - How much water is delivered to each village that day (in litres).
+  - The *distance and time* calculations to show that the route fits inside 8 hours.
+
+  You may use this table:
+
+  #+CAPTION: 3-day plan
+  #+ATTR_LATEX: :align |c|p{5cm}|c|c|c|c|c|
+  |-----+-------+---------+-----------+------------+--------------+------------|
+  | Day | Route | Hilltop | Riverside | Crossroads | Driving time | Total time |
+  |-----+-------+---------+-----------+------------+--------------+------------|
+  |     |       |         |           |            |              |            |
+  |   1 |       |         |           |            |              |            |
+  |     |       |         |           |            |              |            |
+  |-----+-------+---------+-----------+------------+--------------+------------|
+  |     |       |         |           |            |              |            |
+  |   2 |       |         |           |            |              |            |
+  |     |       |         |           |            |              |            |
+  |-----+-------+---------+-----------+------------+--------------+------------|
+  |     |       |         |           |            |              |            |
+  |   3 |       |         |           |            |              |            |
+  |     |       |         |           |            |              |            |
+  |-----+-------+---------+-----------+------------+--------------+------------|
+
+*** 3. Checking your plan
+
+  After you make your plan, check:
+
+  a) At the *end of Day 3*, how much water (in litres) does each village have in its tank?
+     Show how you calculated this.
+
+     - Hilltop:
+     - Riverside:
+     - Crossroads:
+
+  b) For each village, show that it has at least 2 days of water.
+     Use your daily-need calculations from Part A.
+
+  c) For each village, check that the deliveries exceed the minimum amount that you calculated earlier.
+  
+  d) Explain in a short paragraph why your plan is *reasonable and fair*.
+     You may mention:
+     - Which villages were in the most danger.
+     - How you tried to reduce risk.
+     - Why you chose the routes you did.
+  #+latex: \vspace{1in}
+
+*** 4. Extension (optional)
+
+  Suppose the truck breaks down on *Day 2* and cannot drive that day.
+
+  - Is it still possible to keep *all three villages safe* (2 days of water) by the end of Day 3?
+  - If yes, adjust your plan and explain how it works.
+  - If not, explain carefully why it is impossible.
+  #+latex: \vspace{1in}
+    
+* Conclusion
+By the end of this challenge, you will have worked through a realistic planning problem faced by many rural communities around the world. You will have calculated water needs, analysed travel routes, managed limited resources, and designed a plan that keeps three villages safe. These are the same kinds of decisions made every day by engineers, logisticians, and emergency planners.\\
+\\
+Your final plan should not only meet all the mathematical requirements, but also show good judgment: protecting the villages most at risk, using time wisely, and ensuring that everyone has enough water by the end of Day 3.\\
+\\
+Well done for reaching the end — the people of Hilltop, Riverside, and Crossroads can rest easier thanks to your careful thinking.
+* (Optional) Teacher Notes                                         :noexport:
+
+- Part A: routine calculations, good warm-up.
+- Part B: feasibility check and prioritisation; focus on explanation.
+- Part C: rate and time calculations; check conversion to hours and minutes.
+- Part D: main reasoning/optimisation task; accept any valid schedule that respects:
+  - truck capacity,
+  - 8-hour daily limit,
+  - 2-day safety condition by end of Day 3.
+- Extension: reward clear reasoning even if learners only argue impossibility.
