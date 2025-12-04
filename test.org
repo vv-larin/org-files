@@ -83,7 +83,7 @@ The ideal candidate is an education-focused leader with strong experience in set
 
 * Some maths
 \[
-\int_0^1 x^n \, dx = \frac{1}{n+1}.
+\int_0^5 x^2n \, dx = \frac{1}{n+1}.
 \]
 
 \begin{equation}
