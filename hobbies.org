@@ -1,0 +1,77 @@
+* Games to play
+- [ ] Ghost of Tsushima
+- [ ] Alien Isolation
+- [ ] Zelda ToTK
+- [ ] Zelda Link's awakening (finish)
+- [ ] Zelda Echoes of Wisdom
+- [ ] Witcher 3
+  - [ ] Hearts of Stone
+  - [ ] Blood and Wine
+- [ ] Prey
+- [ ] MHGU
+- [ ] MH4U
+- [ ] Factorio
+- [ ] Sekiro
+- [ ] Esoteric Ebb
+- [ ] Cyberpunk
+- [ ] Baldur's Gate
+- [ ] Baldur's Gate 2
+- [ ] Baldur's Gate 3
+- [ ] Rogue Trader
+- [ ] Kingdom Come: Deliverance
+- [ ] Kingdom Come: Deliverance 2
+- [ ] Outer Wilds
+- [ ] GTA4
+- [ ] Dave the Diver
+- [ ] Tactical Breach Wizards
+- [ ] Alan Wake 2
+- [ ] Assassin's Creed 4 Resynced
+- [ ] Citizen Sleeper
+- [ ] Citizen Sleeper 2
+- [ ] Death's Stranding
+- [ ] D4: Dark Dreams Don't Die
+- [ ] DMC5
+- [ ] Dungeon Keeper
+- [ ] Katana Zero
+- [ ] Desperados 3
+- [ ] It Takes Two
+- [ ] Nier: Automata
+- [ ] Ni no Kuni
+- [ ] Persona 5 Royal
+- [ ] Prince of Persia The Lost Crown
+- [ ] Metroid Dread
+- [ ] Wasteland 3
+- [ ] System Shock 2
+- [ ] Tyranny
+- [ ] Undertale
+- [ ] Nebulous Fleet Command
+- [ ] Vanquish
+- [ ] Super Mario Odyssey
+- [ ] Pragmata
+- [ ] Tainted Grail: The Fall of Avalon
+
+* TODO Structure the games list
+
+
+* FUTURE Create and use a film watchlist
+SCHEDULED: <2026-08-02 Sun +1m>
+  [2026-01-09 Fri 23:31]
+- Capture and categorize films.
+- Choose four films each month and schedule their viewing as protected leisure.
+
+* FUTURE Create and maintain a reading list
+SCHEDULED: <2026-08-02 Sun +1m>
+  [2026-01-09 Fri 23:31]
+- Choose one primary book each month.
+- Keep no more than two books active at a time.
+
+* TODO Read for 30 minutes
+SCHEDULED: <2026-07-31 Fri 21:00 +1d>
+:PROPERTIES:
+:STYLE: habit
+:END:
+- Goal: complete this on five days per week, outside the eight-hour workday.
+
+* Work on game project
+  [2026-01-10 Sat 01:43]
+* TODO Find a boxing club

@@ -1,0 +1,24 @@
+#+STARTUP: overview logdone
+
+* DONE [#B] Finalize department budgets for the mid-August budget review
+CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-07-31 Fri>
+DEADLINE: <2026-08-10 Mon>
+- Finance manager: Alesya.
+- [ ] Receive the remaining budgets.
+- [ ] Review each budget as it arrives.
+- [ ] Have Alesya consolidate them into one document.
+- [ ] Complete the final budget review.
+* HOLD [#C] Review N.school students' personal projects with responsible staff
+SCHEDULED: <2026-08-20 Thu>
+- Execution window: 2026-08-20 through 2026-08-25.
+- First identify who owns or supervises each project.
+- Arrange discussions about status, responsibility, problems, and next decisions.
+- The earlier deadline was a reminder, not a firm deadline.
+* TODO [#C] Follow up with Polina about potential board members in Russia
+SCHEDULED: <2026-08-04 Tue>
+- After sending, change to WAIT and follow up after seven days.
+* TODO [#C] Ask Elizaveta for an update on the Ethics code
+SCHEDULED: <2026-08-05 Wed>
+- After asking, change to WAIT and record what is being waited for and the
+  follow-up date.
+  [2026-05-14 Thu 13:52]

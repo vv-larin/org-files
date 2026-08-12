@@ -1,0 +1,92 @@
+#+STARTUP: overview logdone
+
+* Routines
+:PROPERTIES:
+:CATEGORY: routines
+:END:
+** TODO Plan the day
+
+:PROPERTIES:
+:LAST_REPEAT: [2026-07-18 Sat 10:56]
+:END:
+- State "DONE"       from "TODO"       [2026-07-18 Sat 10:56]
+- State "DONE"       from "TODO"       [2026-07-03 Fri 21:16]
+- State "DONE"       from "TODO"       [2026-07-02 Thu 16:54]
+- State "DONE"       from "TODO"       [2026-07-01 Wed 16:50]
+- State "DONE"       from "TODO"       [2026-06-30 Tue 18:25]
+- State "DONE"       from "TODO"       [2026-06-29 Mon 18:12]
+- State "DONE"       from "TODO"       [2026-06-24 Wed 19:24]
+- State "DONE"       from "TODO"       [2026-06-23 Tue 12:53]
+- State "DONE"       from "TODO"       [2026-06-10 Wed 13:13]
+- State "DONE"       from "TODO"       [2026-06-09 Tue 11:50]
+- State "DONE"       from "TODO"       [2026-06-08 Mon 11:36]
+- State "DONE"       from "TODO"       [2026-06-06 Sat 16:00]
+- State "DONE"       from "TODO"       [2026-06-05 Fri 20:39]
+- State "DONE"       from "TODO"       [2026-06-04 Thu 15:04]
+- State "DONE"       from "TODO"       [2026-06-03 Wed 16:33]
+- State "DONE"       from "TODO"       [2026-06-02 Tue 15:49]
+- State "DONE"       from "TODO"       [2026-06-01 Mon 11:58]
+- State "DONE"       from "TODO"       [2026-05-25 Mon 13:52]
+- State "DONE"       from "TODO"       [2026-05-21 Thu 22:19]
+- State "DONE"       from "TODO"       [2026-05-20 Wed 15:33]
+- State "DONE"       from "TODO"       [2026-05-19 Tue 17:30]
+- State "DONE"       from "TODO"       [2026-05-14 Thu 17:51]
+- State "DONE"       from "TODO"       [2026-05-13 Wed 17:31]
+- State "DONE"       from "TODO"       [2026-05-12 Tue 13:48]
+- State "DONE"       from "TODO"       [2026-05-11 Mon 17:59]
+- State "DONE"       from "TODO"       [2026-05-11 Mon 10:29]
+- State "DONE"       from "TODO"       [2026-05-08 Fri 14:52]
+- State "DONE"       from "TODO"       [2026-05-06 Wed 16:01]
+** TODO Message time
+
+:PROPERTIES:
+:LAST_REPEAT: [2026-07-18 Sat 10:56]
+:END:
+- State "DONE"       from "TODO"       [2026-07-18 Sat 10:56]
+- State "DONE"       from "TODO"       [2026-07-03 Fri 21:16]
+- State "DONE"       from "TODO"       [2026-07-02 Thu 16:55]
+- State "DONE"       from "TODO"       [2026-07-01 Wed 16:50]
+- State "DONE"       from "TODO"       [2026-06-30 Tue 18:25]
+- State "DONE"       from "TODO"       [2026-06-29 Mon 18:12]
+- State "DONE"       from "TODO"       [2026-06-24 Wed 19:24]
+- State "DONE"       from "TODO"       [2026-06-23 Tue 12:53]
+- State "DONE"       from "TODO"       [2026-06-10 Wed 13:13]
+- State "DONE"       from "TODO"       [2026-06-09 Tue 11:50]
+- State "DONE"       from "TODO"       [2026-06-08 Mon 12:37]
+- State "DONE"       from "TODO"       [2026-06-06 Sat 16:00]
+- State "DONE"       from "TODO"       [2026-06-05 Fri 20:39]
+- State "DONE"       from "TODO"       [2026-06-04 Thu 15:04]
+- State "DONE"       from "TODO"       [2026-06-03 Wed 16:33]
+- State "DONE"       from "TODO"       [2026-06-02 Tue 18:45]
+- State "DONE"       from "TODO"       [2026-06-01 Mon 18:57]
+- State "DONE"       from "TODO"       [2026-05-25 Mon 13:52]
+- State "DONE"       from "TODO"       [2026-05-21 Thu 22:19]
+- State "DONE"       from "TODO"       [2026-05-20 Wed 15:33]
+- State "DONE"       from "TODO"       [2026-05-19 Tue 18:57]
+- State "DONE"       from "TODO"       [2026-05-17 Sun 17:54]
+- State "DONE"       from "NEXT"       [2026-05-14 Thu 17:08]
+- State "DONE"       from "TODO"       [2026-05-13 Wed 20:46]
+- State "DONE"       from "TODO"       [2026-05-12 Tue 22:30]
+- State "DONE"       from "TODO"       [2026-05-11 Mon 18:00]
+* Bank accounts
+:PROPERTIES:
+:CATEGORY: banks
+:END:
+** KILL Get an appointment with CDB
+Fuck CDB too
+** KILL Contact Revolut Business
+
+After getting receipt
+Fuck Revolut
+* TODO Read about org sort, check sorting by date added :research:
+
+  [2026-05-11 Mon 17:52]
+* TODO One Sec on MacBook as well :5min:
+
+  [2026-05-11 Mon 17:58]
+* TODO Investigate Claude and MCP :research:
+
+  [2026-05-12 Tue 12:26]
+* TODO Tidy up GDrive files :clean:
+
+  [2026-05-18 Mon 16:47]

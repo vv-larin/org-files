@@ -1,0 +1,34 @@
+#+TITLE: Task prioritization and capacity
+#+STARTUP: overview
+
+* Priority rules
+- Keep the priority pyramid deliberately scarce across the active list:
+  - A: about four immediate must-win tasks.
+  - B: about seven important tasks, after A.
+  - C: about nine useful tasks, after B.
+  - Leave the remaining tasks without a priority rating.
+- Anything actionable involving Nikita Mishin takes precedence within A.
+- Money, people waiting, and tasks blocking other work qualify for consideration
+  as A or B; they do not automatically receive A.
+- Research, design, planning, administration, household work, hobbies, and
+  speculative improvements receive a priority only when they genuinely compete
+  for near-term attention.
+- Rebalance the pyramid when an A task is completed or circumstances change.
+- Give an avoided task a one-level boost if it is still worth doing.
+- Consciously review any task that has gone 14 days without scheduling or review.
+
+* Capacity baseline
+- Weekdays contain eight working hours.
+- Reserve five hours for active and consequential work.
+- Protect three hours for research, deep thinking, and design on at least three
+  weekdays.
+- Begin with one 30--45 minute small-task batch.
+- Choose one must-finish task and no more than two secondary tasks each day.
+- On weekends, use no more than two structured hours on one day. Keep the other
+  day mostly free and give personal tasks preference.
+
+* Deferred-state rules
+- WAIT records what or whom is being waited for, since when, and a follow-up date.
+- HOLD records the reason, activation condition, and review date.
+- Review FUTURE monthly and activate at most one or two items per review.
+- Repeatedly skipped FUTURE items must be reaffirmed, rewritten, or removed.

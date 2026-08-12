@@ -1,0 +1,448 @@
+#+STARTUP: content logdone
+
+* Inbox
+:PROPERTIES:
+:CATEGORY: mosaic-inbox
+:END:
+
+* Mosaic governance and legal setup
+:PROPERTIES:
+:CATEGORY: mosaic-governance
+:END:
+** UK charity
+:PROPERTIES:
+:CATEGORY: mosaic-uk
+:END:
+*** TODO [#A] Review Aarti's 11 August advice and decide the Charity Commission disclosure approach
+SCHEDULED: <2026-08-13 Thu>
+- Decide what fuller information to obtain on the two live Russia-connection
+  points and whether to discuss the draft with Aarti by call before responding.
+  [2026-07-29 Wed 18:04]
+** Italian foundation
+:PROPERTIES:
+:CATEGORY: mosaic-italy
+:END:
+*** DONE Check Mario's email
+CLOSED: [2026-07-03 Fri 22:49]
+  [2026-06-30 Tue 18:01]
+*** WAIT Follow up on the Italian foundation incorporation date :email:
+SCHEDULED: <2026-09-01 Tue>
+- Waiting since 2026-08-07 for Andrea and the notary.
+- Andrea confirmed that the AML checks were complete and expected the first
+  available incorporation date to be in September.
+** South Africa NPC
+:PROPERTIES:
+:CATEGORY: mosaic-sa-npc
+:END:
+*** TODO Answer David's introductory email about NPC registration :email:
+
+  [2026-02-13 Fri 22:41]
+*** TODO [#B] Email Glenn about the MEH documents and delivery to Magri :email:
+SCHEDULED: <2026-08-03 Mon>
+  [2026-06-02 Tue 15:06]
+- Include Magri's office address.
+- Request scanned copies.
+- Ask Glenn to deliver the originals to Magri.
+- After sending, change to WAIT and follow up after seven days.
+*** TODO [#C] Open a South African bank account
+SCHEDULED: <2026-08-06 Thu>
+  [2026-06-02 Tue 15:07]
+- Check which banks accept the documents currently available.
+- Attempt one application using Magri's ID and the existing NPC documents.
+- If rejected, record the exact missing documents before changing to WAIT.
+*** DONE Email Glenn :email:
+CLOSED: [2026-06-29 Mon 18:55]
+  [2026-06-23 Tue 19:54]
+** Cyprus
+:PROPERTIES:
+:CATEGORY: mosaic-cyprus
+:END:
+*** Notes
+**** Problems with the Memo
+- Undefined government (MoF) participation
+  - Approval for retaining of funds
+  - Notification if admin costs exceed 25% of INCOME(?)
+  - Charitable foundation status application - criteria?
+  - What happens when we "notify" the MoF?
+- Employment issues
+  - Visa requirements?
+** Reports to Nikita
+:PROPERTIES:
+:CATEGORY: mosaic-reports
+:END:
+*** TODO [#A] Prepare and send the monthly report to Nikita Mishin
+SCHEDULED: <2026-08-20 Thu +1m>
+DEADLINE: <2026-08-25 Tue -4d +1m>
+:PROPERTIES:
+:LAST_REPEAT: [2026-07-29 Wed 17:43]
+:END:
+- Capture work completed, decisions, and questions for 15 minutes each week.
+- Assemble the month's material on the 20th.
+- Draft the report on the 21st.
+- Revise and send on the preceding business day (2026-08-24 for the August report).
+- State "DONE"       from "TODO"       [2026-07-29 Wed 17:43]
+- State "DONE"       from "TODO"       [2026-06-26 Fri 00:32]
+- State "DONE"       from "TODO"       [2026-06-01 Mon 10:51]
+* Limpopo launch
+:PROPERTIES:
+:CATEGORY: limpopo
+:END:
+** Notes
+*** Nosipho and Nezile
+- Girls moving to Limpopo on the week of May 11
+- First they will attend Pasha's classes, then start in Senior schools (grade 8)
+- 20k each
+
+** Winter camp
+*** DONE [7/7] Buy tickets for the team
+CLOSED: [2026-06-30 Tue 23:44]
+  [2026-06-29 Mon 18:22]
+- [X] Zlobin
+- [X] Sasha
+- [X] Lilia
+- [X] Masha
+- [X] Vitaly
+- [X] Myself
+- [X] Misha
+*** DONE Book two cars for July 7
+CLOSED: [2026-07-14 Tue 21:39]
+  [2026-06-29 Mon 18:26]
+*** DONE Book one more car for July 9
+CLOSED: [2026-07-14 Tue 21:39]
+  [2026-06-29 Mon 18:27]
+*** TODO Make an expenses table for the holiday programme
+- [ ] 9480 for the stickers
+
+  [2026-06-30 Tue 16:10]
+*** DONE Message team about meeting :msg:
+CLOSED: [2026-07-03 Fri 21:16]
+  [2026-07-03 Fri 00:28]
+*** TODO Create contracts for team
+
+  [2026-07-03 Fri 00:35]
+*** TODO Sign a digital certificate for Calfornia
+  [2026-07-30 Thu 19:02]
+*** TODO Calfornia certificate
+  [2026-08-02 Sun 15:35]
+** Programme setup
+:PROPERTIES:
+:CATEGORY: lpp-programme
+:END:
+*** TODO Limpopo MoU
+*** TODO Give Pavel access to "Tzaneen Crime Comparison 2024" :5min:
+SCHEDULED: <2026-08-13 Thu>
+- Confirm the appropriate permission level before granting access; two duplicate
+  requests for pavel.fedoseev@mosaic.charity arrived on 2026-08-08.
+*** DONE Investigate medical insurance :slow:
+CLOSED: [2026-07-01 Wed 22:33] DEADLINE: <2026-06-30 Tue -7d>
+- Note taken on [2026-06-23 Tue 19:44] \\
+  Waiting for Denis to reply
+- Note taken on [2026-06-02 Tue 22:34] \\
+- [X] Ask Lisa
+- [ ] Ask Magri
+- [X] Ask NM
+- [X] Ask Denis
+*** TODO Investigate car purchase
+
+*** TODO Work on Mosaic's Miro board :slow:
+
+  [2026-06-06 Sat 19:49]
+** Farm purchase
+:PROPERTIES:
+:CATEGORY: lpp-farm
+:END:
+*** DONE Reply to Ruan's offer
+CLOSED: [2026-07-30 Thu]
+- Note taken on [2026-05-19 Tue 15:04] \\
+  After property transfer
+  [2026-05-11 Mon 11:58]
+*** DONE Sign Limpopo WiFi contract
+CLOSED: [2026-08-05 Wed]
+- Signed contract sent to CRC Networks.
+  [2026-07-29 Wed 17:56]
+*** DONE [#A] Acknowledge Ruan's quote and explain the review delay
+CLOSED: [2026-07-30 Thu 19:02] SCHEDULED: <2026-07-30 Thu>
+  [2026-07-29 Wed 18:02]
+*** TODO [#B] Review Ruan's R50,000 Phase 1 coordination quote
+SCHEDULED: <2026-08-04 Tue>
+  [2026-07-29 Wed 18:02]
+- Verify available cash after salaries and other commitments.
+- Ask for the expected excluded professional fees.
+- Ask for the timeline and completion criteria.
+- Confirm that a formal invoice will be issued.
+- If affordable, accept and provide a site-access contact.
+- Acceptance creates the R50,000 payment obligation; do not accept merely to
+  obtain an invoice.
+*** TODO Wifi Contract
+  [2026-08-02 Sun 15:35]
+** Relocation and accommodation
+:PROPERTIES:
+:CATEGORY: lpp-reloc
+:END:
+*** Tzaneen house
+**** TODO [#B] Confirm construction completion and pay monthly rent :5min:
+SCHEDULED: <2026-08-30 Sun +1m>
+:PROPERTIES:
+:LAST_REPEAT: [2026-08-12 Wed 15:34]
+:END:
+- State "DONE"       from "TODO"       [2026-08-12 Wed 15:34]
+DEADLINE: <2026-09-01 Tue +1m>
+:PROPERTIES:
+:LAST_REPEAT: [2026-06-30 Tue 13:41]
+:END:
+- For August, confirm that the interior construction is complete before paying.
+- State "DONE"       from "TODO"       [2026-06-30 Tue 13:41]
+- State "DONE"       from "TODO"       [2026-06-29 Mon 18:20]
+**** DONE Corne to send final AC supplier invoices and 50% calculation
+CLOSED: [2026-08-12 Wed 18:55] SCHEDULED: <2026-08-05 Wed>
+  [2026-07-29 Wed 18:02]
+- Waiting since 2026-07-29.
+- Wait for the actual supplier invoices for ten AC units and installation, plus
+  the final 50% calculation.
+- Do not pay provisional Invoice 004 before confirmation.
+**** TODO Pay Invoice 004 for the ACs.
+SCHEDULED: <2026-08-13 Thu>
+- Corne supplied the three underlying invoices on 2026-08-07: total R144,500;
+  Mosaic's agreed 50% share is R72,250 and is covered by Invoice 004.
+
+*** TODO Pay CRC Networks monthly invoice INV0008102
+DEADLINE: <2026-08-31 Mon>
+- Use the client reference when paying so the payment is allocated correctly.
+
+*** DONE Email Leetasha about Mikhail's extension
+CLOSED: [2026-07-14 Tue 21:39]
+  [2026-06-29 Mon 22:03]
+*** DONE Answer Smith & Co about the extension submissions
+CLOSED: [2026-07-30 Thu 19:00]
+
+  [2026-07-29 Wed 22:49]
+** TODO Ask Imagine Scholar about google Workspace
+  [2026-08-12 Wed 17:45]
+* Communications and website
+:PROPERTIES:
+:CATEGORY: mosaic-comms
+:END:
+** Mosaic SMM
+:PROPERTIES:
+:CATEGORY: mosaic-smm
+:END:
+*** Notes
+- Bakin's content: https://docs.google.com/document/d/1jcq0cGEyBB_bxVrJzlw_fQ_MJYnVotdte2XBejrwljs/edit?usp=sharing
+*** TODO [#C] Design Mosaic's social-media workflow
+SCHEDULED: <2026-08-12 Wed>
+- Define the purpose, channels, audiences, content types, cadence, approvals,
+  roles, owners, and next actions.
+- Include Nosipho's reels, Julia's SMM contact, and Valya as a possible writer.
+*** DONE Make a content plan :slow:
+CLOSED: [2026-07-03 Fri 21:22]
+  [2026-05-11 Mon 11:24]
+*** DONE Post some stories content about the training
+CLOSED: [2026-07-03 Fri 00:32]
+  [2026-06-29 Mon 21:46]
+*** DONE Pay Epple
+CLOSED: [2026-07-14 Tue 21:38]
+  [2026-07-04 Sat 14:30]
+*** TODO Ask GPT Work to suggest website revisions
+
+  [2026-07-29 Wed 18:42]
+*** TODO [#B] Respond to Nastya and pay her
+SCHEDULED: <2026-07-31 Fri>
+  [2026-06-10 Wed 13:37]
+** Mosaic website
+:PROPERTIES:
+:CATEGORY: mosaic-website
+:END:
+*** TODO Renew Tilda subscription
+DEADLINE: <2027-06-10 Thu>
+  [2026-06-10 Wed 13:35]
+* People and HR
+:PROPERTIES:
+:CATEGORY: mosaic-hr
+:END:
+*** TODO Dig up Corey's admin candidate
+
+  [2026-05-18 Mon 23:34]
+* Finances
+:PROPERTIES:
+:CATEGORY: mosaic-fin
+:END:
+** Notes / Links
+- Personal transfers: https://docs.google.com/spreadsheets/d/1KjsATwRWHL9YusZo-8zvs1uZ19Mjqat5dFqH_7oXL1Q/edit?gid=0#gid=0
+** General tasks
+*** TODO Tally small expenses (Google, Tilda, OpenAI, PDFstuff, etc)
+
+  [2026-05-13 Wed 17:33]
+*** TODO Tally other expenses since Jan that are not in the personal transfers table
+
+  [2026-05-13 Wed 17:37]
+*** DONE Salaries [5/5]
+CLOSED: [2026-07-02 Thu 16:54]
+- [X] Pay Pasha
+  Paid 2mil KZT
+- [X] Pay Nosipho
+- [X] pay Nezile
+- [X] Pay Sasha 1/4
+- [X] Pay Masha 1/2
+*** DONE [#A] Pay out monthly salaries + expenses
+CLOSED: [2026-08-12 Wed 15:34] SCHEDULED: <2026-08-03 Mon>
+DEADLINE: <2026-08-05 Wed>
+  [2026-07-29 Wed 17:45]
+- Pay on or before the 5th of each month.
+- If the 5th is on a weekend, use the preceding Friday.
+- Set the next month's dates manually during the monthly review.
+*** TODO Revise Limpopo budget
+
+  [2026-05-19 Tue 18:07]
+*** DONE Write to Ignashov about SP funds :email:
+CLOSED: [2026-07-02 Thu 14:53]
+  [2026-06-29 Mon 21:44]
+*** DONE Shvedov and RUB transfer
+CLOSED: [2026-06-30 Tue 18:05]
+- Note taken on [2026-06-30 Tue 18:05] \\
+  Exchanged 2230 and 32 EUR for 200000 RUB
+  [2026-06-29 Mon 22:06]
+*** TODO Mosaic half-year expense report
+
+  [2026-06-29 Mon 23:16]
+*** DONE Deal with Bereke's request
+CLOSED: [2026-07-03 Fri 12:52]
+  [2026-06-30 Tue 11:23]
+*** DONE Bereke's team to update me on the incoming transfer stuck in review
+CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-08-03 Mon>
+- Waiting since 2026-07-29.
+- Ask for the current status, responsible owner, missing requirements, and a
+  concrete resolution date.
+
+** TODO Make an expense projection for Q3 and Q4 2026
+
+  [2026-07-29 Wed 18:17]
+** TODO Make a complete reconciliation of Mosaic's and personal finances
+
+  [2026-07-29 Wed 18:26]
+** DONE [#B] Reimburse TTN people
+CLOSED: [2026-08-12 Wed 17:03] SCHEDULED: <2026-07-31 Fri>
+  [2026-07-29 Wed 18:28]
+- Amounts and payment details are ready.
+** TODO [#C] Log Zlobin's expenses in personal books
+SCHEDULED: <2026-08-08 Sat>
+  [2026-07-29 Wed 18:29]
+- This is bookkeeping for money loaned to him; no reimbursement is due.
+* Bakin / trainings
+:PROPERTIES:
+:CATEGORY: bakin
+:END:
+** Notes / Links
+Reports:
+- July 2025: https://docs.google.com/document/d/1WLpEe_IiVPuWw7CaBJ2JejnXeksWF7XxGuiI6_-hNCM/edit?usp=sharing
+- October 2025: https://docs.google.com/document/d/1Hy2drJFFYVDZuk9usxCENxuZczXVBabGaT8sDbRcxIc/edit?usp=drivesdk
+- December 2025 (foundation): https://docs.google.com/document/d/1rIxbFn5edh-PHFdEhuVxPD371cdTFpN_6RvHXjGk47E/edit?usp=sharing
+- December 2025 (trainers): https://docs.google.com/document/d/1ZHGSDNb_KA1oM_KVMPXkDDFjYl1czfDNglcjfSGKxa4/edit?usp=sharing
+- March 2026 (CT): https://docs.google.com/document/d/1MQFJxDdv2Wi_ufYYum0HPTadT-ZJPeOXCKwSrqQuKKQ/edit?usp=sharing
+- April 2026 (Nairobi): https://docs.google.com/document/d/11B3nHmetGjRaPSoPJ40CbtZQhjU-tuyB8MVMsWsszFs/edit?usp=sharing
+- Numbers and budgets: https://docs.google.com/spreadsheets/d/1dfPbJhmwfJhfE76L3LHIzYmAZWKzrcWgI0449nFHWvo/edit?usp=sharing
+** Tasks
+*** DONE Bakin's transfers for July
+CLOSED: [2026-07-30 Thu]
+
+Володя, привет, про деньги
+1) нужно перевести 2000 за тренинг - см табличку Transfers
+2) около 2000 глухим учителям
+3) Мои расчеты (траты и гонорар) в табличке Budget July. Там есть рубли (покупал билеты). Не знаю, удобно тебе или нет. Могу подождать. Кажется, с предыдущего транша долг оставался евро
+
+Основным тренерам пока не переводим. Зиафора затянула с данными по транспорту (и меня это бесит, поскольку договариваться не умеет). Мисс Кью расстроилась, что не платят "за сессию", а за курс... В общем, она рассчитывала на большее.
+
+Предложил им встречу (в пнд написал официальное письмо), чтобы прояснить. Они до начала курса не спрашивали, сколько заработают. Видимо, ожидания какие-то есть, а прояснять их не умеют. Поэтому на паузе, но во вкладке Budget July есть расчеты (за курс Wits отдельная табличка).
+  [2026-07-18 Sat 16:19]
+*** DONE [#B] Make the remaining Bakin trainer transfers [0/2]
+CLOSED: [2026-07-30 Thu 19:10] SCHEDULED: <2026-08-03 Mon>
+  [2026-07-29 Wed 22:50]
+- [ ] Ziaphora
+- [ ] Monwabisi
+* Partners and beneficiaries
+:PROPERTIES:
+:CATEGORY: mosaic-partners
+:END:
+** Beneficiaries/partner follow-up
+:PROPERTIES:
+:CATEGORY: beneficiaries
+:END:
+*** WAIT [#B] Confirm the FMKANSE donation reached its account
+SCHEDULED: <2026-08-13 Thu>
+DEADLINE: <2026-08-14 Fri>
+- Waiting since 2026-08-11; the beneficiary's bank said the international
+  transfer was delayed.
+- If it has not arrived, find another route before the 2026-08-15 tournament.
+*** DONE Finalize TTN fellows contracts and procedure
+CLOSED: [2026-07-29 Wed 17:43]
+- Note taken on [2026-05-15 Fri 19:26] \\
+  Waiting for info from Emillie
+  [2026-05-11 Mon 17:23]
+*** TODO Speak with Pasha about SIMI in highschools
+
+  [2026-06-08 Mon 19:40]
+*** DONE Arrange Justin's payment
+CLOSED: [2026-07-02 Thu 16:55]
+- Note taken on [2026-07-01 Wed 18:04] \\
+  Asked for an invoice
+  [2026-06-26 Fri 01:08]
+*** TODO Text SIMI
+
+  [2026-06-29 Mon 23:13]
+*** TODO Text the bursary guys
+
+  [2026-06-29 Mon 23:14]
+** TODO [#B] Review David's updated MoU and fixed-term contract
+SCHEDULED: <2026-08-13 Thu>
+DEADLINE: <2026-08-14 Fri>
+- David asked for comments before schools and teacher assistants sign, and asked
+  that September activities follow the attached calendar.
+  [2026-07-29 Wed 17:44]
+** Royal College of Music
+*** WAIT [#A] Receive the RCM gift agreement and donor-information requirements :email:
+SCHEDULED: <2026-08-19 Wed>
+- Waiting since 2026-08-12 for David Sutherland after asking for RCM's standard
+  gift agreement and the information needed for Nikita's personal donation.
+* Kenya project
+:PROPERTIES:
+:CATEGORY: kenya
+:END:
+*** TODO [#B] Send the substantive Kivukoni reply :email:
+SCHEDULED: <2026-08-13 Thu>
+DEADLINE: <2026-08-14 Fri>
+- On 2026-08-08, promised Lucy, Etienne and Robert a considered response by the
+  middle of the week; Lucy agreed and said she would be travelling.
+*** DONE Kenya trip expense report :slow:
+CLOSED: [2026-07-29 Wed 17:44]
+  [2026-05-01 Fri 11:41]
+*** TODO Check Duara's email
+
+  [2026-06-08 Mon 18:17]
+*** DONE Check Kenyan projects
+CLOSED: [2026-07-29 Wed 18:28]
+- [X] TFK
+- [X] Art360
+- [X] Fedya's list (?)
+- [X] Magarini
+- [X] Hatua
+- [X] Duara
+  [2026-06-23 Tue 19:40]
+*** DONE [#B] Email to KVK :email:
+CLOSED: [2026-07-02 Thu 22:25]
+  [2026-06-30 Tue 13:14]
+*** DONE Put together a list of projects for NM
+CLOSED: [2026-07-29 Wed 18:28]
+  [2026-07-03 Fri 13:55]
+* General correspondence
+:PROPERTIES:
+:CATEGORY: mos-corr
+:END:
+*** DONE [#C] Send the follow-up draft to Igor Lavš about the Adriatic school opportunity :email:
+CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-07-31 Fri>
+- A threaded Gmail draft is already saved and asks for a high-level response
+  to the outstanding questions.
+*** TODO Check David's email about the maths system :5min:
+
+  [2026-05-21 Thu 22:20]
+*** DONE [#B] Email to Lavs with questions :slow:
+CLOSED: [2026-07-03 Fri 23:24]
+  [2026-06-30 Tue 13:14]

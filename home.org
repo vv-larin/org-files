@@ -1,0 +1,95 @@
+#+STARTUP: overview logdone
+
+* Trips to Russia
+:PROPERTIES:
+:CATEGORY: rus
+:END:
+* Visas and permits
+:PROPERTIES:
+:CATEGORY: visa
+:END:
+** Schengen visas
+** Cyprus permit
+:PROPERTIES:
+:CATEGORY: visa-cy
+:END:
+** Bulgarian permit
+:PROPERTIES:
+:CATEGORY: visa-bg
+:END:
+*** TODO Accept Yolkina's offer
+
+** DONE Text Belaya's husband for Slovenia info :msg:
+CLOSED: [2026-06-30 Tue 13:43]
+  [2026-06-23 Tue 19:48]
+* Tech
+:PROPERTIES:
+:CATEGORY: tech
+:END:
+** Fix phone
+*** KILL Get reply from Silent cloud
+
+*** TODO [#C] Drop off phone for repair
+SCHEDULED: <2026-08-03 Mon>
+** TODO Syncthing on phone
+
+** KILL Order a set of switches for the keyboard
+CLOSED: [2026-06-29 Mon 18:53]
+  [2026-05-13 Wed 17:47]
+** KILL Do research and decide on switches to order
+CLOSED: [2026-07-30 Thu]
+  [2026-05-13 Wed 17:48]
+** DONE Buy/order an external drive for MacMini
+CLOSED: [2026-06-29 Mon 18:54]
+  [2026-05-13 Wed 17:48]
+** TODO Research replacing the SSD in MacMini
+
+  [2026-05-13 Wed 17:49]
+** DONE Find a mechanical numpad
+CLOSED: [2026-06-29 Mon 18:54]
+  [2026-05-13 Wed 21:08]
+** TODO Buy apple plug thingy
+
+  [2026-05-22 Fri 07:15]
+** DONE Reset macbook
+CLOSED: [2026-06-29 Mon 18:54]
+- Note taken on [2026-06-01 Mon 11:29] \\
+  Stepan will reset
+  [2026-03-28 Sat 00:00]
+** DONE Syncthing cleaned macbook :5min:
+CLOSED: [2026-06-30 Tue 11:22]
+  [2026-06-23 Tue 19:49]
+* Money
+:PROPERTIES:
+:CATEGORY: money
+:END:
+** TODO [#B] Complete the Bank of Cyprus personal-data review
+SCHEDULED: <2026-08-17 Mon>
+DEADLINE: <2026-10-10 Sat>
+- Submit the updated information and documents through 1bank, or contact Andri
+  Constantinou if anything is unclear; incomplete review may inactivate the
+  accounts temporarily.
+** TODO [#C] Call Marina at Hellenic about a security deposit box :5min:
+SCHEDULED: <2026-07-31 Fri 09:00>
+- Phone: 25502922.
+- Call in the morning because the branch closes early.
+** HOLD Build a personal budget and expense-tracking table
+SCHEDULED: <2026-09-01 Tue>
+- Activation trigger: complete the Mosaic/personal finance reconciliation.
+- On 2026-09-01, review this task if the reconciliation remains incomplete.
+* House
+** TODO Buy steam cooker
+
+  [2026-05-11 Mon 20:21]
+** TODO Clear table
+
+  [2026-06-01 Mon 19:47]
+** TODO Fix shelf in bathroom
+
+  [2026-06-02 Tue 22:36]
+** DONE Pay electricity bill
+CLOSED: [2026-07-02 Thu 18:59]
+  [2026-07-01 Wed 22:33]
+** DONE [#A] Pay EAC bill :5min:
+CLOSED: [2026-07-31 Fri 19:35] SCHEDULED: <2026-07-31 Fri> DEADLINE: <2026-07-31 Fri>
+  [2026-07-29 Wed 18:17]

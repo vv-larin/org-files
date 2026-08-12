@@ -1,0 +1,46 @@
+#+STARTUP: content logdone
+
+* Upstairs
+:PROPERTIES:
+:CATEGORY: upstairs
+:END:
+** Costas
+*** TODO [#C] Investigate Cyprus tax-residency and non-dom status
+SCHEDULED: <2026-08-07 Fri>
+- Protected research block.
+- Determine the applicable status, eligibility, effects, benefits, risks,
+  process, documents, deadlines, and unresolved questions for Costas.
+*** TODO Sort out the missing VAT invoices for CosmoCo
+SCHEDULED: <2026-08-17 Mon>
+- Review the highlighted payments in \`UPSTAIRS SUPPLIERS.xlsx\` from Despo's
+  2026-08-05 email and send the missing supporting documents.
+
+- Note taken on [2026-05-21 Thu 22:22] \\
+  Create invoices for SA trainers
+  [2026-05-13 Wed 17:45]
+*** TODO Set up a call with Costas and Totalserve
+
+  [2026-05-21 Thu 22:19]
+** DONE Invoice Side Pears
+CLOSED: [2026-07-29 Wed 18:28]
+** TODO Check BeSmart's asset list
+
+  [2026-06-04 Thu 15:55]
+** Funding and payments
+*** WAIT [#A] Hear from Sergey about the EUR 150,000 transfer from Side Pears
+SCHEDULED: <2026-08-19 Wed>
+- Waiting since 2026-08-12 for the available route, timing and required
+  documents; a further EUR 150,000 may follow later in the autumn.
+*** TODO [#B] Re-run the June 2026 social-insurance payment
+SCHEDULED: <2026-08-13 Thu>
+- The EUR 268.50 payment was declined for insufficient funds.
+- Confirm funds are available, then tell Nikoletta to process it again.
+*** WAIT Obtain the MT103/SWIFT copy and UETR from Airwallex
+SCHEDULED: <2026-08-14 Fri>
+- Waiting since 2026-08-12; Airwallex created a support ticket after the banking
+  documents were still unavailable after two business days.
+** IT and security
+*** TODO [#C] Resolve the Upstairs Google Workspace security gaps
+SCHEDULED: <2026-08-17 Mon>
+- Review the Admin Console recommendations; one user is missing 2-Step
+  Verification protection.
