@@ -1,7 +1,7 @@
 #+STARTUP: overview logdone
 
 * DONE [#B] Finalize department budgets for the mid-August budget review
-CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-07-31 Fri>
+CLOSED: [2026-08-13 Thu 19:06] SCHEDULED: <2026-07-31 Fri>
 DEADLINE: <2026-08-10 Mon>
 - Finance manager: Alesya.
 - [ ] Receive the remaining budgets.
@@ -17,8 +17,8 @@ SCHEDULED: <2026-08-20 Thu>
 * TODO [#C] Follow up with Polina about potential board members in Russia
 SCHEDULED: <2026-08-04 Tue>
 - After sending, change to WAIT and follow up after seven days.
-* TODO [#C] Ask Elizaveta for an update on the Ethics code
-SCHEDULED: <2026-08-05 Wed>
+* DONE [#C] Ask Elizaveta for an update on the Ethics code
+CLOSED: [2026-08-24 Mon 18:19] SCHEDULED: <2026-08-05 Wed>
 - After asking, change to WAIT and record what is being waited for and the
   follow-up date.
   [2026-05-14 Thu 13:52]

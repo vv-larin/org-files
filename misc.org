@@ -84,7 +84,8 @@ Fuck Revolut
 * TODO One Sec on MacBook as well :5min:
 
   [2026-05-11 Mon 17:58]
-* TODO Investigate Claude and MCP :research:
+* DONE Investigate Claude and MCP :research:
+CLOSED: [2026-08-25 Tue 11:22]
 
   [2026-05-12 Tue 12:26]
 * TODO Tidy up GDrive files :clean:

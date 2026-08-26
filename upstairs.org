@@ -10,8 +10,8 @@ SCHEDULED: <2026-08-07 Fri>
 - Protected research block.
 - Determine the applicable status, eligibility, effects, benefits, risks,
   process, documents, deadlines, and unresolved questions for Costas.
-*** TODO Sort out the missing VAT invoices for CosmoCo
-SCHEDULED: <2026-08-17 Mon>
+*** DONE Sort out the missing VAT invoices for CosmoCo
+CLOSED: [2026-08-13 Thu 19:06] SCHEDULED: <2026-08-17 Mon>
 - Review the highlighted payments in \`UPSTAIRS SUPPLIERS.xlsx\` from Despo's
   2026-08-05 email and send the missing supporting documents.
 
@@ -23,7 +23,8 @@ SCHEDULED: <2026-08-17 Mon>
   [2026-05-21 Thu 22:19]
 ** DONE Invoice Side Pears
 CLOSED: [2026-07-29 Wed 18:28]
-** TODO Check BeSmart's asset list
+** DONE Check BeSmart's asset list
+CLOSED: [2026-08-25 Tue 11:23]
 
   [2026-06-04 Thu 15:55]
 ** Funding and payments
@@ -35,8 +36,8 @@ SCHEDULED: <2026-08-19 Wed>
 SCHEDULED: <2026-08-13 Thu>
 - The EUR 268.50 payment was declined for insufficient funds.
 - Confirm funds are available, then tell Nikoletta to process it again.
-*** WAIT Obtain the MT103/SWIFT copy and UETR from Airwallex
-SCHEDULED: <2026-08-14 Fri>
+*** DONE Obtain the MT103/SWIFT copy and UETR from Airwallex
+CLOSED: [2026-08-13 Thu 18:56] SCHEDULED: <2026-08-14 Fri>
 - Waiting since 2026-08-12; Airwallex created a support ticket after the banking
   documents were still unavailable after two business days.
 ** IT and security

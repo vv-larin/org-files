@@ -9,6 +9,47 @@
 :CATEGORY: visa
 :END:
 ** Schengen visas
+*** Slovenian business visa [1/7]
+- Source: [[https://mail.google.com/mail/#all/19ffb91789106860][ODI email of 13 August 2026]].
+- The application is for a Schengen Type C visa for a business visit of up to
+  90 days and must be submitted through the Embassy of the Slovak Republic in
+  Nicosia. The email says the embassy will be closed on 29 August.
+**** DONE Send ODI the employer name and address for the invitation :email:
+CLOSED: [2026-08-24 Mon 22:10]
+- Reply to Branko Ilić; Igor Lavš and Nikša Maletić were copied on the request.
+- Ask ODI to send the completed and signed Slovenian invitation letter.
+- After sending, change this task to WAIT and record a follow-up date.
+**** TODO Confirm the Slovenia travel dates and business itinerary
+- Confirm the dates, purpose of the visit, meetings and Slovenian business
+  partner details with Igor/ODI.
+- Collect supporting correspondence and any conference or trade-fair
+  registration or tickets that demonstrate the purpose and business relationship.
+**** TODO Book the visa-submission appointment in Nicosia
+- Confirm the current appointment and submission procedure with the Embassy of
+  the Slovak Republic, which represents Slovenia in Cyprus.
+- Avoid 29 August, when the email says the embassy will be closed.
+**** TODO Complete the attached Slovenian Schengen visa application form
+- Use the PDF attached to ODI's 13 August email.
+**** TODO Collect the financial, residence and employment documents
+- [ ] Bank statements covering the last three months.
+- [ ] Proof of legal residence in Cyprus.
+- [ ] Digitally signed Russian Pension and Social Insurance Fund employment
+      history extract covering the last ten years.
+- [ ] Employer letter and recent payslips; if applying as self-employed, use
+      2-NDFL/3-NDFL and the relevant business or tax-register extract instead.
+**** TODO Arrange the travel documents for the visa application
+- [ ] Schengen-wide travel medical insurance with at least EUR 30,000 coverage.
+- [ ] Return-flight reservation or other proof of transport.
+- [ ] Proof of accommodation.
+**** TODO Review and submit the Slovenian visa application pack
+- [ ] Signed invitation letter from the Slovenian business partner.
+- [ ] Completed application form and business-purpose evidence.
+- [ ] Passport issued within the last ten years, with at least two blank pages
+      and validity for at least three months after the planned Schengen departure.
+- [ ] Financial, residence, employment, insurance, transport and accommodation
+      documents collected above.
+- [ ] Ask ODI to review the pack if useful.
+- [ ] Submit at the Slovak Embassy in Nicosia and pay the EUR 90 visa fee.
 ** Cyprus permit
 :PROPERTIES:
 :CATEGORY: visa-cy
@@ -81,10 +122,12 @@ SCHEDULED: <2026-09-01 Tue>
 ** TODO Buy steam cooker
 
   [2026-05-11 Mon 20:21]
-** TODO Clear table
+** DONE Clear table
+CLOSED: [2026-08-24 Mon 22:10]
 
   [2026-06-01 Mon 19:47]
-** TODO Fix shelf in bathroom
+** KILL Fix shelf in bathroom
+CLOSED: [2026-08-24 Mon 22:09]
 
   [2026-06-02 Tue 22:36]
 ** DONE Pay electricity bill
