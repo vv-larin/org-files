@@ -80,6 +80,8 @@ CLOSED: [2026-10-13 Tue 22:31] SCHEDULED: <2026-10-13 Tue>
 *** TODO Email Marinos
 SCHEDULED: <2026-11-04 Wed>
   [2026-10-29 Thu 21:37]
+*** TODO Call Yulia from Totalserve about the foundation
+  [2026-10-31 Sat 22:59]
 ** Reports to Nikita
 :PROPERTIES:
 :CATEGORY: mosaic-reports

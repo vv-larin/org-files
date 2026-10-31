@@ -92,7 +92,8 @@ CLOSED: [2026-07-30 Thu]
 ** DONE Buy/order an external drive for MacMini
 CLOSED: [2026-06-29 Mon 18:54]
   [2026-05-13 Wed 17:48]
-** FUTURE Research replacing the SSD in MacMini :research:
+** KILL Research replacing the SSD in MacMini :research:
+CLOSED: [2026-10-30 Fri 18:38]
   [2026-05-13 Wed 17:49]
 ** DONE Find a mechanical numpad
 CLOSED: [2026-06-29 Mon 18:54]
@@ -110,6 +111,7 @@ CLOSED: [2026-06-29 Mon 18:54]
 CLOSED: [2026-06-30 Tue 11:22]
   [2026-06-23 Tue 19:49]
 ** TODO Fix Mailmate's duplicate emails in the gmail mailbox
+SCHEDULED: <2026-10-30 Fri>
   [2026-10-29 Thu 21:49]
 * Money
 :PROPERTIES:

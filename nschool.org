@@ -22,6 +22,7 @@ CLOSED: [2026-08-24 Mon 18:19] SCHEDULED: <2026-08-05 Wed>
   follow-up date.
   [2026-05-14 Thu 13:52]
 * WAIT [#A] Principal file for Sluch :slow:
+SCHEDULED: <2026-10-30 Fri>
   [2026-08-31 Mon 15:55]
   - Waiting for an OK form NM
 * DONE Contact Remorenko :call:
@@ -34,4 +35,5 @@ CLOSED: [2026-09-14 Mon 18:29] SCHEDULED: <2026-09-11 Fri>
 CLOSED: [2026-10-08 Thu 19:32] SCHEDULED: <2026-09-30 Wed>
   [2026-09-10 Thu 18:13]
 * TODO Check Polina's suggestion for Dar
+SCHEDULED: <2026-10-30 Fri>
   [2026-10-30 Fri 12:30]
