@@ -50,28 +50,30 @@
 - [ ] Pragmata
 - [ ] Tainted Grail: The Fall of Avalon
 
-* TODO Structure the games list
+
+* TODO Structure the games list :slow:
 
 
-* FUTURE Create and use a film watchlist
-SCHEDULED: <2026-08-02 Sun +1m>
+* FUTURE Create and use a film watchlist :slow:
   [2026-01-09 Fri 23:31]
 - Capture and categorize films.
 - Choose four films each month and schedule their viewing as protected leisure.
 
-* FUTURE Create and maintain a reading list
-SCHEDULED: <2026-08-02 Sun +1m>
+* FUTURE Create and maintain a reading list :slow:
   [2026-01-09 Fri 23:31]
 - Choose one primary book each month.
 - Keep no more than two books active at a time.
 
 * TODO Read for 30 minutes
-SCHEDULED: <2026-07-31 Fri 21:00 +1d>
 :PROPERTIES:
 :STYLE: habit
+:LAST_REPEAT: [2026-08-27 Thu 11:45]
 :END:
+- State "DONE"       from "TODO"       [2026-08-27 Thu 11:45]
+- State "DONE"       from "TODO"       [2026-08-27 Thu 11:45]
 - Goal: complete this on five days per week, outside the eight-hour workday.
 
-* Work on game project
+* DONE Work on game project :routine:
+SCHEDULED: <2026-09-03 Thu>
   [2026-01-10 Sat 01:43]
-* TODO Find a boxing club
+* TODO Find a boxing club :research:

@@ -4,7 +4,7 @@
 :PROPERTIES:
 :CATEGORY: routines
 :END:
-** TODO Plan the day
+** TODO Plan the day :routine:
 
 :PROPERTIES:
 :LAST_REPEAT: [2026-07-18 Sat 10:56]
@@ -37,7 +37,7 @@
 - State "DONE"       from "TODO"       [2026-05-11 Mon 10:29]
 - State "DONE"       from "TODO"       [2026-05-08 Fri 14:52]
 - State "DONE"       from "TODO"       [2026-05-06 Wed 16:01]
-** TODO Message time
+** TODO Message time :routine:
 
 :PROPERTIES:
 :LAST_REPEAT: [2026-07-18 Sat 10:56]
@@ -78,10 +78,12 @@ Fuck CDB too
 
 After getting receipt
 Fuck Revolut
-* TODO Read about org sort, check sorting by date added :research:
+* KILL Read about org sort, check sorting by date added :research:
+CLOSED: [2026-09-03 Thu 12:51]
 
   [2026-05-11 Mon 17:52]
-* TODO One Sec on MacBook as well :5min:
+* DONE [#A] One Sec on MacBook as well :5min:
+CLOSED: [2026-09-03 Thu 11:51] SCHEDULED: <2026-09-02 Wed>
 
   [2026-05-11 Mon 17:58]
 * DONE Investigate Claude and MCP :research:
@@ -91,3 +93,6 @@ CLOSED: [2026-08-25 Tue 11:22]
 * TODO Tidy up GDrive files :clean:
 
   [2026-05-18 Mon 16:47]
+* DONE Clean up and make an actual schedule :clean:
+CLOSED: [2026-09-03 Thu 13:17] SCHEDULED: <2026-09-03 Thu 10:00-12:00>
+  [2026-09-02 Wed 16:59]

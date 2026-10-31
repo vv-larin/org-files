@@ -1,16 +1,11 @@
 #+STARTUP: content logdone
 
-* Upstairs
-:PROPERTIES:
-:CATEGORY: upstairs
-:END:
-** Costas
-*** TODO [#C] Investigate Cyprus tax-residency and non-dom status
-SCHEDULED: <2026-08-07 Fri>
+* Costas
+** TODO Investigate Cyprus tax-residency and non-dom status :research:
 - Protected research block.
 - Determine the applicable status, eligibility, effects, benefits, risks,
   process, documents, deadlines, and unresolved questions for Costas.
-*** DONE Sort out the missing VAT invoices for CosmoCo
+** DONE Sort out the missing VAT invoices for CosmoCo
 CLOSED: [2026-08-13 Thu 19:06] SCHEDULED: <2026-08-17 Mon>
 - Review the highlighted payments in \`UPSTAIRS SUPPLIERS.xlsx\` from Despo's
   2026-08-05 email and send the missing supporting documents.
@@ -18,30 +13,53 @@ CLOSED: [2026-08-13 Thu 19:06] SCHEDULED: <2026-08-17 Mon>
 - Note taken on [2026-05-21 Thu 22:22] \\
   Create invoices for SA trainers
   [2026-05-13 Wed 17:45]
-*** TODO Set up a call with Costas and Totalserve
+** TODO Set up a call with Costas and Totalserve :email:
 
   [2026-05-21 Thu 22:19]
-** DONE Invoice Side Pears
+* DONE Invoice Side Pears
 CLOSED: [2026-07-29 Wed 18:28]
-** DONE Check BeSmart's asset list
+* DONE Check BeSmart's asset list
 CLOSED: [2026-08-25 Tue 11:23]
 
   [2026-06-04 Thu 15:55]
-** Funding and payments
-*** WAIT [#A] Hear from Sergey about the EUR 150,000 transfer from Side Pears
-SCHEDULED: <2026-08-19 Wed>
+* Funding and payments
+** DONE [#A] Hear from Sergey about the EUR 150,000 transfer from Side Pears
+CLOSED: [2026-08-27 Thu 12:12] SCHEDULED: <2026-08-28 Fri>
 - Waiting since 2026-08-12 for the available route, timing and required
   documents; a further EUR 150,000 may follow later in the autumn.
-*** TODO [#B] Re-run the June 2026 social-insurance payment
-SCHEDULED: <2026-08-13 Thu>
+** DONE [#B] Re-run the June 2026 social-insurance payment :5min:
+CLOSED: [2026-09-07 Mon 16:34] SCHEDULED: <2026-09-04 Fri>
 - The EUR 268.50 payment was declined for insufficient funds.
 - Confirm funds are available, then tell Nikoletta to process it again.
-*** DONE Obtain the MT103/SWIFT copy and UETR from Airwallex
+** DONE Obtain the MT103/SWIFT copy and UETR from Airwallex
 CLOSED: [2026-08-13 Thu 18:56] SCHEDULED: <2026-08-14 Fri>
 - Waiting since 2026-08-12; Airwallex created a support ticket after the banking
   documents were still unavailable after two business days.
-** IT and security
-*** TODO [#C] Resolve the Upstairs Google Workspace security gaps
-SCHEDULED: <2026-08-17 Mon>
-- Review the Admin Console recommendations; one user is missing 2-Step
-  Verification protection.
+** DONE Make a personal contract with Side Pears
+CLOSED: [2026-10-02 Fri 22:40] SCHEDULED: <2026-09-30 Wed>
+  [2026-09-30 Wed 14:47]
+** DONE Get Ignashov's response
+CLOSED: [2026-10-05 Mon 20:19] SCHEDULED: <2026-10-05 Mon>
+** DONE Send Ignashov personal and Magri's invoice
+CLOSED: [2026-10-07 Wed 16:03] SCHEDULED: <2026-10-06 Tue>
+** DONE Go through Ignashov's email again
+CLOSED: [2026-10-01 Thu 19:15] SCHEDULED: <2026-09-30 Wed>
+  [2026-09-30 Wed 14:50]
+** DONE Text Ignashov
+CLOSED: [2026-10-13 Tue 12:24]
+  [2026-10-08 Thu 19:33]
+** DONE Send Costas the Social Security letter :email:
+CLOSED: [2026-10-13 Tue 18:17] SCHEDULED: <2026-10-13 Tue>
+  [2026-10-13 Tue 11:48]
+** DONE Submit docs to Bereke :5min:
+CLOSED: [2026-10-14 Wed 14:17] SCHEDULED: <2026-10-14 Wed>
+  [2026-10-13 Tue 11:46]
+* IT and security
+** DONE Pay for ChatGPT :5min:
+CLOSED: [2026-10-13 Tue 13:22] SCHEDULED: <2026-10-13 Tue>
+:PROPERTIES:
+:EFFORT:   0
+:END:
+  [2026-10-13 Tue 11:45]
+* TODO Answer Thea Petrou about mail
+  [2026-10-30 Fri 18:42]

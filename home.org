@@ -9,7 +9,7 @@
 :CATEGORY: visa
 :END:
 ** Schengen visas
-*** Slovenian business visa [1/7]
+*** Slovenian business visa [7/7]
 - Source: [[https://mail.google.com/mail/#all/19ffb91789106860][ODI email of 13 August 2026]].
 - The application is for a Schengen Type C visa for a business visit of up to
   90 days and must be submitted through the Embassy of the Slovak Republic in
@@ -19,29 +19,37 @@ CLOSED: [2026-08-24 Mon 22:10]
 - Reply to Branko Ilić; Igor Lavš and Nikša Maletić were copied on the request.
 - Ask ODI to send the completed and signed Slovenian invitation letter.
 - After sending, change this task to WAIT and record a follow-up date.
-**** TODO Confirm the Slovenia travel dates and business itinerary
+**** DONE [#B] Confirm the Slovenia travel dates and business itinerary
+CLOSED: [2026-09-10 Thu 18:21] SCHEDULED: <2026-09-03 Thu>
 - Confirm the dates, purpose of the visit, meetings and Slovenian business
   partner details with Igor/ODI.
 - Collect supporting correspondence and any conference or trade-fair
   registration or tickets that demonstrate the purpose and business relationship.
-**** TODO Book the visa-submission appointment in Nicosia
+**** DONE [#A] Book the visa-submission appointment in Nicosia
+CLOSED: [2026-09-03 Thu 12:39]
+- Note taken on [2026-09-03 Thu 12:14] \\
+  Waiting for BLS and VFS replies
 - Confirm the current appointment and submission procedure with the Embassy of
   the Slovak Republic, which represents Slovenia in Cyprus.
-- Avoid 29 August, when the email says the embassy will be closed.
-**** TODO Complete the attached Slovenian Schengen visa application form
+- Avoid 29 August, when the email says the embassy will be closed.  :docs:  :docs:
+**** DONE [#A] Complete the attached Slovenian Schengen visa application form :docs:
+CLOSED: [2026-09-10 Thu 18:21] SCHEDULED: <2026-09-03 Thu>
 - Use the PDF attached to ODI's 13 August email.
-**** TODO Collect the financial, residence and employment documents
+**** DONE [#B] Collect the financial, residence and employment documents
+CLOSED: [2026-09-10 Thu 18:21] SCHEDULED: <2026-09-03 Thu>
 - [ ] Bank statements covering the last three months.
 - [ ] Proof of legal residence in Cyprus.
 - [ ] Digitally signed Russian Pension and Social Insurance Fund employment
       history extract covering the last ten years.
 - [ ] Employer letter and recent payslips; if applying as self-employed, use
       2-NDFL/3-NDFL and the relevant business or tax-register extract instead.
-**** TODO Arrange the travel documents for the visa application
+**** DONE [#B] Arrange the travel documents for the visa application
+CLOSED: [2026-09-10 Thu 18:21] SCHEDULED: <2026-09-03 Thu>
 - [ ] Schengen-wide travel medical insurance with at least EUR 30,000 coverage.
 - [ ] Return-flight reservation or other proof of transport.
 - [ ] Proof of accommodation.
-**** TODO Review and submit the Slovenian visa application pack
+**** DONE Review and submit the Slovenian visa application pack
+CLOSED: [2026-09-10 Thu 18:21] SCHEDULED: <2026-09-04 Fri>
 - [ ] Signed invitation letter from the Slovenian business partner.
 - [ ] Completed application form and business-purpose evidence.
 - [ ] Passport issued within the last ten years, with at least two blank pages
@@ -58,7 +66,8 @@ CLOSED: [2026-08-24 Mon 22:10]
 :PROPERTIES:
 :CATEGORY: visa-bg
 :END:
-*** TODO Accept Yolkina's offer
+*** KILL Accept Yolkina's offer
+CLOSED: [2026-09-30 Wed 14:24]
 
 ** DONE Text Belaya's husband for Slovenia info :msg:
 CLOSED: [2026-06-30 Tue 13:43]
@@ -70,9 +79,9 @@ CLOSED: [2026-06-30 Tue 13:43]
 ** Fix phone
 *** KILL Get reply from Silent cloud
 
-*** TODO [#C] Drop off phone for repair
-SCHEDULED: <2026-08-03 Mon>
-** TODO Syncthing on phone
+*** DONE Drop off phone for repair :town:
+CLOSED: [2026-09-16 Wed 14:57]
+** TODO Syncthing on phone :5min:
 
 ** KILL Order a set of switches for the keyboard
 CLOSED: [2026-06-29 Mon 18:53]
@@ -83,13 +92,13 @@ CLOSED: [2026-07-30 Thu]
 ** DONE Buy/order an external drive for MacMini
 CLOSED: [2026-06-29 Mon 18:54]
   [2026-05-13 Wed 17:48]
-** TODO Research replacing the SSD in MacMini
-
+** FUTURE Research replacing the SSD in MacMini :research:
   [2026-05-13 Wed 17:49]
 ** DONE Find a mechanical numpad
 CLOSED: [2026-06-29 Mon 18:54]
   [2026-05-13 Wed 21:08]
-** TODO Buy apple plug thingy
+** DONE [#B] Buy apple plug thingy :town:
+CLOSED: [2026-09-03 Thu 22:09] SCHEDULED: <2026-09-03 Thu>
 
   [2026-05-22 Fri 07:15]
 ** DONE Reset macbook
@@ -100,26 +109,25 @@ CLOSED: [2026-06-29 Mon 18:54]
 ** DONE Syncthing cleaned macbook :5min:
 CLOSED: [2026-06-30 Tue 11:22]
   [2026-06-23 Tue 19:49]
+** TODO Fix Mailmate's duplicate emails in the gmail mailbox
+  [2026-10-29 Thu 21:49]
 * Money
 :PROPERTIES:
 :CATEGORY: money
 :END:
-** TODO [#B] Complete the Bank of Cyprus personal-data review
-SCHEDULED: <2026-08-17 Mon>
-DEADLINE: <2026-10-10 Sat>
+** DONE [#B] Complete the Bank of Cyprus personal-data review :5min:
+CLOSED: [2026-10-13 Tue 18:37] SCHEDULED: <2026-10-13 Tue>
 - Submit the updated information and documents through 1bank, or contact Andri
   Constantinou if anything is unclear; incomplete review may inactivate the
   accounts temporarily.
-** TODO [#C] Call Marina at Hellenic about a security deposit box :5min:
-SCHEDULED: <2026-07-31 Fri 09:00>
+** TODO Call Marina at Hellenic about a security deposit box :5min:
 - Phone: 25502922.
 - Call in the morning because the branch closes early.
-** HOLD Build a personal budget and expense-tracking table
-SCHEDULED: <2026-09-01 Tue>
+** HOLD Build a personal budget and expense-tracking table :slow:
 - Activation trigger: complete the Mosaic/personal finance reconciliation.
 - On 2026-09-01, review this task if the reconciliation remains incomplete.
 * House
-** TODO Buy steam cooker
+** TODO Buy steam cooker :town:
 
   [2026-05-11 Mon 20:21]
 ** DONE Clear table

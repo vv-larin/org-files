@@ -8,17 +8,30 @@ DEADLINE: <2026-08-10 Mon>
 - [ ] Review each budget as it arrives.
 - [ ] Have Alesya consolidate them into one document.
 - [ ] Complete the final budget review.
-* HOLD [#C] Review N.school students' personal projects with responsible staff
-SCHEDULED: <2026-08-20 Thu>
+* DONE [#C] Review N.school students' personal projects with responsible staff
+CLOSED: [2026-08-28 Fri 19:44] SCHEDULED: <2026-08-28 Fri>
 - Execution window: 2026-08-20 through 2026-08-25.
 - First identify who owns or supervises each project.
 - Arrange discussions about status, responsibility, problems, and next decisions.
 - The earlier deadline was a reminder, not a firm deadline.
-* TODO [#C] Follow up with Polina about potential board members in Russia
-SCHEDULED: <2026-08-04 Tue>
+* TODO Follow up with Polina about potential board members in Russia :msg:
 - After sending, change to WAIT and follow up after seven days.
 * DONE [#C] Ask Elizaveta for an update on the Ethics code
 CLOSED: [2026-08-24 Mon 18:19] SCHEDULED: <2026-08-05 Wed>
 - After asking, change to WAIT and record what is being waited for and the
   follow-up date.
   [2026-05-14 Thu 13:52]
+* WAIT [#A] Principal file for Sluch :slow:
+  [2026-08-31 Mon 15:55]
+  - Waiting for an OK form NM
+* DONE Contact Remorenko :call:
+CLOSED: [2026-09-07 Mon 16:34] SCHEDULED: <2026-09-05 Sat>
+  [2026-09-01 Tue 19:57]
+* DONE Anokhina letter review
+CLOSED: [2026-09-14 Mon 18:29] SCHEDULED: <2026-09-11 Fri>
+  [2026-09-07 Mon 21:30]
+* DONE Check the bursary criteria
+CLOSED: [2026-10-08 Thu 19:32] SCHEDULED: <2026-09-30 Wed>
+  [2026-09-10 Thu 18:13]
+* TODO Check Polina's suggestion for Dar
+  [2026-10-30 Fri 12:30]
