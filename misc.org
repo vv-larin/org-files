@@ -4,6 +4,9 @@
 :PROPERTIES:
 :CATEGORY: routines
 :END:
+** DONE Plan the tasks for today
+CLOSED: [2026-11-09 Mon 18:24] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 17:38]
 * Bank accounts
 :PROPERTIES:
 :CATEGORY: banks
@@ -32,3 +35,6 @@ CLOSED: [2026-08-25 Tue 11:22]
 * DONE Clean up and make an actual schedule :clean:
 CLOSED: [2026-09-03 Thu 13:17] SCHEDULED: <2026-09-03 Thu 10:00-12:00>
   [2026-09-02 Wed 16:59]
+* DONE Put down tasks
+CLOSED: [2026-11-09 Mon 18:24] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 17:34]

@@ -24,6 +24,9 @@ CLOSED: [2026-09-30 Wed 14:25]
 *** DONE Email Aarti :email:
 CLOSED: [2026-10-30 Fri 18:39]
   [2026-10-29 Thu 21:35]
+*** DONE Ask Nikita about Aarti and Italians :msg:email:
+CLOSED: [2026-11-11 Wed 21:23] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 17:37]
 ** Italian foundation
 :PROPERTIES:
 :CATEGORY: mosaic-italy
@@ -31,8 +34,8 @@ CLOSED: [2026-10-30 Fri 18:39]
 *** DONE Check Mario's email
 CLOSED: [2026-07-03 Fri 22:49]
   [2026-06-30 Tue 18:01]
-*** WAIT Follow up on the Italian foundation incorporation date :email:
-SCHEDULED: <2026-10-16 Fri>
+*** DONE Follow up on the Italian foundation incorporation date :email:
+CLOSED: [2026-11-09 Mon 18:21]
 - Waiting since 2026-08-07 for Andrea and the notary.
 - Andrea confirmed that the AML checks were complete and expected the first
   available incorporation date to be in September.
@@ -77,8 +80,8 @@ CLOSED: [2026-10-13 Tue 22:31] SCHEDULED: <2026-10-13 Tue>
   - What happens when we "notify" the MoF?
 - Employment issues
   - Visa requirements?
-*** TODO Email Marinos
-SCHEDULED: <2026-11-04 Wed>
+*** DONE Email Marinos
+CLOSED: [2026-11-09 Mon 17:20] SCHEDULED: <2026-11-04 Wed>
   [2026-10-29 Thu 21:37]
 *** TODO Call Yulia from Totalserve about the foundation
   [2026-10-31 Sat 22:59]
@@ -167,7 +170,7 @@ CLOSED: [2026-07-01 Wed 22:33] DEADLINE: <2026-06-30 Tue -7d>
 - [ ] Ask Magri
 - [X] Ask NM
 - [X] Ask Denis
-*** TODO Investigate car purchase :research:
+*** HOLD Investigate car purchase :research:
 
 *** KILL Work on Mosaic's Miro board :slow:
 CLOSED: [2026-09-03 Thu 13:10]
@@ -210,25 +213,36 @@ CLOSED: [2026-09-30 Wed 14:20] SCHEDULED: <2026-09-25 Fri>
 *** DONE Check Ruan's messages :5min:
 CLOSED: [2026-10-14 Wed 14:17] SCHEDULED: <2026-10-14 Wed>
   [2026-10-13 Tue 11:47]
-*** HOLD Pay CRC invoice
+*** DONE Pay CRC invoice
+CLOSED: [2026-11-09 Mon 18:22]
 - Note taken on [2026-10-30 Fri 17:27] \\
   Waiting for info from Bereke on Swift transfers.
   [2026-10-14 Wed 14:22]
+*** DONE Ask Pasha about title deed :msg:
+CLOSED: [2026-11-09 Mon 19:52] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 18:07]
+*** DONE Send Magri the invoices for the farm works
+CLOSED: [2026-11-12 Thu 17:04] SCHEDULED: <2026-11-12 Thu>
+  [2026-11-12 Thu 15:05]
+*** DONE Program remotes for the farm gate
+CLOSED: [2026-11-14 Sat 18:50] SCHEDULED: <2026-11-14 Sat>
+  [2026-11-12 Thu 17:37]
 ** Relocation and accommodation
 :PROPERTIES:
 :CATEGORY: lpp-reloc
 :END:
 *** Tzaneen house
 **** TODO [#B] Confirm construction completion and pay monthly rent :5min:
-SCHEDULED: <2026-11-06 Fri +1m>
+SCHEDULED: <2026-12-06 Sun +1m>
 :PROPERTIES:
-:LAST_REPEAT: [2026-10-06 Tue 23:11]
+:LAST_REPEAT: [2026-11-09 Mon 17:19]
 :END:
+- State "DONE"       from "TODO"       [2026-11-09 Mon 17:19]
 - State "DONE"       from "TODO"       [2026-10-06 Tue 23:11]
 - State "DONE"       from "TODO"       [2026-09-30 Wed 14:23]
 - State "DONE"       from "TODO"       [2026-09-01 Tue 19:53]
 - State "DONE"       from "TODO"       [2026-08-12 Wed 15:34]
-DEADLINE: <2026-12-01 Tue +1m>
+DEADLINE: <2027-01-01 Fri +1m>
 :PROPERTIES:
 :LAST_REPEAT: [2026-06-30 Tue 13:41]
 :END:
@@ -264,15 +278,16 @@ CLOSED: [2026-09-02 Wed 16:51]
 *** DONE Ask the bank for MT103 for Corne :5min:
 CLOSED: [2026-10-14 Wed 14:17] SCHEDULED: <2026-10-14 Wed>
   [2026-10-13 Tue 12:19]
-*** HOLD Pay rent for Pompagalana
+*** DONE Pay rent for Pompagalana
+CLOSED: [2026-11-09 Mon 18:22]
 - Note taken on [2026-10-30 Fri 18:11] \\
   Waiting for SWIFT info from Bereke
   [2026-10-30 Fri 14:57]
 ** DONE Ask Imagine Scholar about google Workspace
 CLOSED: [2026-08-24 Mon 22:08]
   [2026-08-12 Wed 17:45]
-** TODO Finalise the dates of the SA and KZ trip
-SCHEDULED: <2026-10-30 Fri>
+** DONE Finalise the dates of the SA and KZ trip
+CLOSED: [2026-11-09 Mon 17:19] SCHEDULED: <2026-10-30 Fri>
   [2026-10-29 Thu 17:14]
 * Communications and website
 :PROPERTIES:
@@ -320,6 +335,9 @@ CLOSED: [2026-09-10 Thu 18:22] SCHEDULED: <2026-09-07 Mon> DEADLINE: <2027-06-10
 ** DONE [#A] Email to Frank
 CLOSED: [2026-08-31 Mon 13:54]
   [2026-08-26 Wed 15:59]
+** DONE Write a post for Bakin
+CLOSED: [2026-11-14 Sat 18:49] SCHEDULED: <2026-11-12 Thu>
+  [2026-11-11 Wed 22:22]
 * People and HR
 :PROPERTIES:
 :CATEGORY: mosaic-hr
@@ -343,7 +361,7 @@ CLOSED: [2026-08-24 Mon 22:08]
 CLOSED: [2026-08-24 Mon 22:08]
 
   [2026-05-13 Wed 17:37]
-*** DONE Salaries [1/1]
+*** DONE Salaries [2/2]
 CLOSED: [2026-07-02 Thu 16:54]
 - [X] Pay Pasha
   Paid 2mil KZT
@@ -354,6 +372,9 @@ CLOSED: [2026-07-02 Thu 16:54]
 **** DONE Send Lilia a test payment
 CLOSED: [2026-09-30 Wed 14:27]
   [2026-09-24 Thu 13:39]
+**** DONE Transfer money to Misha :5min:
+CLOSED: [2026-11-09 Mon 19:32] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 17:42]
 *** DONE [#A] Pay out monthly salaries + expenses
 CLOSED: [2026-08-12 Wed 15:34] SCHEDULED: <2026-08-03 Mon>
 DEADLINE: <2026-08-05 Wed>
@@ -389,11 +410,38 @@ CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-08-03 Mon>
 *** DONE Check the returned transfer for 119 USD
 CLOSED: [2026-10-30 Fri 18:39]
   [2026-10-29 Thu 21:33]
+*** DONE Work out the reimbursements :slow:
+CLOSED: [2026-11-14 Sat 18:49] SCHEDULED: <2026-11-10 Tue>
+  [2026-11-09 Mon 17:42]
+*** DONE Pay out the reimbursements :slow:
+CLOSED: [2026-11-14 Sat 18:49] SCHEDULED: <2026-11-10 Tue>
+  [2026-11-09 Mon 17:45]
+*** DONE Fill out the Bereke form
+CLOSED: [2026-11-11 Wed 11:28] SCHEDULED: <2026-11-11 Wed>
+  [2026-11-11 Wed 09:39]
+*** DONE Fill out Bereke form
+SCHEDULED: <2026-11-12 Thu>
+  [2026-11-12 Thu 15:04]
+*** TODO Pay CRC invoice
+DEADLINE: <2026-11-25 Wed>
+  [2026-11-12 Thu 16:16]
+*** TODO Work out the transfer to Revolut commission
+  [2026-11-15 Sun 17:07]
+*** TODO Log transaction in the personal file
+SCHEDULED: <2026-11-15 Sun>
+  [2026-11-15 Sun 17:09]
+  - [X] Alatau (-Rev charges)
+  - [X] Revolut
+  - [X] Bereke
+  - [X] Rubles
+  - [ ] Bakin incoming
+  - [ ] Fedor incoming
 ** DONE Make an expense projection for Q3 and Q4 2026
 CLOSED: [2026-08-24 Mon 22:09]
 
   [2026-07-29 Wed 18:17]
-** TODO [#B] Make a complete reconciliation of Mosaic's and personal finances :slow:
+** TODO [#B] Make a complete reconciliation of Mosaic's and personal finances :slow:slow:
+SCHEDULED: <2026-11-11 Wed>
 
   [2026-07-29 Wed 18:26]
 ** DONE [#B] Reimburse TTN people
@@ -401,6 +449,7 @@ CLOSED: [2026-08-12 Wed 17:03] SCHEDULED: <2026-07-31 Fri>
   [2026-07-29 Wed 18:28]
 - Amounts and payment details are ready.
 ** TODO Log Zlobin's expenses in personal books :5min:
+SCHEDULED: <2026-11-10 Tue>
   [2026-07-29 Wed 18:29]
 - This is bookkeeping for money loaned to him; no reimbursement is due.
 ** KILL Pasha's card - try again
@@ -414,7 +463,7 @@ CLOSED: [2026-09-30 Wed 14:26]
   They promised 1-3 days to call back
   [2026-08-26 Wed 19:07]
 ** WAIT Wait for Murray's email to Investec
-SCHEDULED: <2026-10-14 Wed>
+SCHEDULED: <2026-11-10 Tue>
   [2026-10-08 Thu 19:32]
 ** DONE Send payment confirmation to Magri :email:
 CLOSED: [2026-10-13 Tue 14:46] SCHEDULED: <2026-10-13 Tue>
@@ -478,6 +527,7 @@ CLOSED: [2026-07-02 Thu 16:55]
   Asked for an invoice
   [2026-06-26 Fri 01:08]
 *** TODO Text the bursary guys :5min:
+SCHEDULED: <2026-11-10 Tue>
 
   [2026-06-29 Mon 23:14]
 ** DONE [#B] Review David's updated MoU and fixed-term contract
@@ -487,15 +537,15 @@ DEADLINE: <2026-08-14 Fri>
   that September activities follow the attached calendar.
   [2026-07-29 Wed 17:44]
 ** Royal College of Music
-*** DONE [#A] Receive the RCM gift agreement and donor-information requirements :email:
-CLOSED: [2026-08-25 Tue 11:23] SCHEDULED: <2026-08-19 Wed>
-- Waiting since 2026-08-12 for David Sutherland after asking for RCM's standard
-  gift agreement and the information needed for Nikita's personal donation.
 ** TODO Check out Streetlight's report :slow:
-SCHEDULED: <2026-10-15 Thu>
+SCHEDULED: <2026-11-12 Thu>
   [2026-08-24 Mon 15:42]
-** TODO Check Magri's reports
+** TODO Check Magri's reports :slow:
+SCHEDULED: <2026-11-10 Tue>
   [2026-10-30 Fri 18:42]
+** DONE Justin Mayo meeting
+CLOSED: [2026-11-12 Thu 15:23] SCHEDULED: <2026-11-12 Thu>
+  [2026-11-11 Wed 16:16]
 * Kenya project
 :PROPERTIES:
 :CATEGORY: kenya
@@ -547,8 +597,24 @@ CLOSED: [2026-08-12 Wed 15:35] SCHEDULED: <2026-07-31 Fri>
 - A threaded Gmail draft is already saved and asks for a high-level response
   to the outstanding questions.
 *** TODO [#B] Check David's email about the maths system :5min:
-SCHEDULED: <2026-10-15 Thu>
+SCHEDULED: <2026-11-10 Tue>
   [2026-05-21 Thu 22:20]
 *** DONE [#B] Email to Lavs with questions :slow:
 CLOSED: [2026-07-03 Fri 23:24]
   [2026-06-30 Tue 13:14]
+** WAIT Check Frank's text :5min:
+SCHEDULED: <2026-11-28 Sat>
+  [2026-11-09 Mon 18:04]
+** DONE Write feedback on frank's op-ed :slow:
+CLOSED: [2026-11-12 Thu 15:23] SCHEDULED: <2026-11-12 Thu>
+  [2026-11-09 Mon 18:04]
+** DONE Answer WhatsApp :msg:
+CLOSED: [2026-11-09 Mon 21:22] SCHEDULED: <2026-11-09 Mon>
+- [X] Calfornia
+- [X] David
+- [X] Joseph
+- [X] Susan
+  [2026-11-09 Mon 18:05]
+** TODO Answer RCM
+SCHEDULED: <2026-11-10 Tue>
+  [2026-11-09 Mon 19:53]

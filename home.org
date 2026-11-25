@@ -110,8 +110,7 @@ CLOSED: [2026-06-29 Mon 18:54]
 ** DONE Syncthing cleaned macbook :5min:
 CLOSED: [2026-06-30 Tue 11:22]
   [2026-06-23 Tue 19:49]
-** TODO Fix Mailmate's duplicate emails in the gmail mailbox
-SCHEDULED: <2026-10-30 Fri>
+** HOLD Fix Mailmate's duplicate emails in the gmail mailbox
   [2026-10-29 Thu 21:49]
 * Money
 :PROPERTIES:
@@ -122,14 +121,14 @@ CLOSED: [2026-10-13 Tue 18:37] SCHEDULED: <2026-10-13 Tue>
 - Submit the updated information and documents through 1bank, or contact Andri
   Constantinou if anything is unclear; incomplete review may inactivate the
   accounts temporarily.
-** TODO Call Marina at Hellenic about a security deposit box :5min:
+** HOLD Call Marina at Hellenic about a security deposit box :5min:
 - Phone: 25502922.
 - Call in the morning because the branch closes early.
 ** HOLD Build a personal budget and expense-tracking table :slow:
 - Activation trigger: complete the Mosaic/personal finance reconciliation.
 - On 2026-09-01, review this task if the reconciliation remains incomplete.
 * House
-** TODO Buy steam cooker :town:
+** HOLD Buy steam cooker :town:
 
   [2026-05-11 Mon 20:21]
 ** DONE Clear table
@@ -146,3 +145,6 @@ CLOSED: [2026-07-02 Thu 18:59]
 ** DONE [#A] Pay EAC bill :5min:
 CLOSED: [2026-07-31 Fri 19:35] SCHEDULED: <2026-07-31 Fri> DEADLINE: <2026-07-31 Fri>
   [2026-07-29 Wed 18:17]
+* TODO Pay Anytime insurance
+DEADLINE: <2026-11-21 Sat>
+  [2026-11-12 Thu 17:21]

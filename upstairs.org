@@ -16,6 +16,9 @@ CLOSED: [2026-08-13 Thu 19:06] SCHEDULED: <2026-08-17 Mon>
 ** TODO Set up a call with Costas and Totalserve :email:
 
   [2026-05-21 Thu 22:19]
+** TODO Pay CosmoCo
+DEADLINE: <2026-11-21 Sat>
+  [2026-11-12 Thu 17:21]
 * DONE Invoice Side Pears
 CLOSED: [2026-07-29 Wed 18:28]
 * DONE Check BeSmart's asset list
@@ -63,3 +66,6 @@ CLOSED: [2026-10-13 Tue 13:22] SCHEDULED: <2026-10-13 Tue>
   [2026-10-13 Tue 11:45]
 * TODO Answer Thea Petrou about mail
   [2026-10-30 Fri 18:42]
+* DONE Sort out the VAT stuff :slow:
+CLOSED: [2026-11-09 Mon 21:50] SCHEDULED: <2026-11-09 Mon>
+  [2026-11-09 Mon 17:38]
