@@ -145,6 +145,6 @@ CLOSED: [2026-07-02 Thu 18:59]
 ** DONE [#A] Pay EAC bill :5min:
 CLOSED: [2026-07-31 Fri 19:35] SCHEDULED: <2026-07-31 Fri> DEADLINE: <2026-07-31 Fri>
   [2026-07-29 Wed 18:17]
-* TODO Pay Anytime insurance
-DEADLINE: <2026-11-21 Sat>
+* DONE Pay Anytime insurance
+CLOSED: [2026-11-25 Wed 12:59] DEADLINE: <2026-11-21 Sat>
   [2026-11-12 Thu 17:21]

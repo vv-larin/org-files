@@ -526,8 +526,8 @@ CLOSED: [2026-07-02 Thu 16:55]
 - Note taken on [2026-07-01 Wed 18:04] \\
   Asked for an invoice
   [2026-06-26 Fri 01:08]
-*** TODO Text the bursary guys :5min:
-SCHEDULED: <2026-11-10 Tue>
+*** DONE Text the bursary guys :5min:
+CLOSED: [2026-11-25 Wed 12:58] SCHEDULED: <2026-11-10 Tue>
 
   [2026-06-29 Mon 23:14]
 ** DONE [#B] Review David's updated MoU and fixed-term contract
